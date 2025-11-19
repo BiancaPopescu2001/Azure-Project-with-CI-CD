@@ -7,3 +7,7 @@
 - [Architecture](#architecture)
 - [Data Dictionary](#data-dictionary)
 - [Skills Demonstrated](#skills-demonstrated)
+
+
+## Introduction
+This project focuses on building a data engineering pipeline for Olympics Paris 2024 data using the Azure ecosystem.
