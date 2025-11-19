@@ -11,3 +11,7 @@
 
 ## Introduction
 This project focuses on building a data engineering pipeline for Olympics Paris 2024 data using the Azure ecosystem.
+
+## Architecture
+
+![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/Arhitecture%20Olympics.jpg)
