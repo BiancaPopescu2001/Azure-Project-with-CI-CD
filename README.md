@@ -54,7 +54,7 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 - CI/CD with Azure DevOps
 
--GitHub Version Control
+- GitHub Version Control
 
 - Data Modeling (Bronze, Silver, Gold Layers)
 
