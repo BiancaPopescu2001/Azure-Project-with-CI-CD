@@ -19,7 +19,7 @@ The project follows the Medallion Architecture, which organizes data into three 
 1. **Bronze (Raw) Layer:**
 
     - **Purpose:** Store raw data as-is from the source without any transformations.
-    - **Source:** GitHub APIs.
+    - **Source:** GitHub APIs, Azure Datalake Gen 2.
     - **Tools:** Azure Data Factory.
 
 2. **Silver (Transformed) Layer:**
@@ -30,7 +30,7 @@ The project follows the Medallion Architecture, which organizes data into three 
 3. **Gold (Serving) Layer:**
 
     - **Purpose:** Serve refined data to stakeholders through a data warehouse.
-    - **Tools:** Azure Synapse Analytics, Power BI.
+    - **Tools:** Azure Databricks, PowerBI
 
 ![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/Arhitecture%20Olympics.jpg)
 
