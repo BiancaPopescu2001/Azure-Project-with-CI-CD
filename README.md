@@ -5,6 +5,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Architecture](#architecture)
+- [DLT Pipeline Arhitecture](#dlt-pipeline-arhitecture)
 - [Technologies Used](#technologies-used)
 - [Skills Demonstrated](#skills-demonstrated)
 
