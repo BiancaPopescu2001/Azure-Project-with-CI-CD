@@ -36,9 +36,9 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ## Technologies uised
 
-    - **Purpose:** Store raw data as-is from the source without any transformations.
-    - **Source:** GitHub APIs, Azure Datalake Gen 2.
-    - **Tools:** Azure Data Factory.
+- **Purpose:** Store raw data as-is from the source without any transformations.
+- **Source:** GitHub APIs, Azure Datalake Gen 2.
+- **Tools:** Azure Data Factory.
 
 ## Data Dictionary
 
