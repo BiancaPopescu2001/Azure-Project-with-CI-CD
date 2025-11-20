@@ -14,6 +14,24 @@ This project focuses on building a data engineering pipeline for Olympics Paris 
 
 ## Architecture
 
+The project follows the Medallion Architecture, which organizes data into three distinct layers to maintain quality, scalability, and accessibility:
+
+1. Bronze (Raw) Layer:
+
+Purpose: Store raw data as-is from the source without any transformations.
+Source: GitHub APIs.
+Tools: Azure Data Factory.
+
+2. Silver (Transformed) Layer:
+
+Purpose: Clean, transform, and enrich the raw data for analysis.
+Tools: Azure Databricks.
+
+3. Gold (Serving) Layer:
+
+Purpose: Serve refined data to stakeholders through a data warehouse.
+Tools: Azure Synapse Analytics, Power BI.
+
 ![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/Arhitecture%20Olympics.jpg)
 
 ## Data Dictionary
