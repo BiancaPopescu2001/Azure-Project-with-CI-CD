@@ -36,13 +36,11 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ## Data Dictionary
 
+## Skills Demonstrated
+
 - Azure Cloud Architecture
 
-- Data Ingestion
-
 - ETL Orchestration
-
-- Delta Lake Architecture
 
 - Delta Live Tables (DLT)
 
@@ -50,11 +48,7 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 - Azure Data Factory (ADF)
 
-- PySpark / Apache Spark
-
-- Databricks Notebooks
-
-- Python Programming
+- PySpark 
 
 - SQL / SparkSQL
 
@@ -62,6 +56,5 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 -GitHub Version Control
 
-Data Modeling (Bronze, Silver, Gold Layers)
+- Data Modeling (Bronze, Silver, Gold Layers)
 
-Data Transformation & Cleaning
