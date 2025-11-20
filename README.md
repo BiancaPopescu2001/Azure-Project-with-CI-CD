@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Architecture](#architecture)
-- [Data Dictionary](#data-dictionary)
+- [Technologies Used](#technologies-used)
 - [Skills Demonstrated](#skills-demonstrated)
 
 
@@ -34,15 +34,13 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/Arhitecture%20Olympics.jpg)
 
-## Technologies uised
+## Technologies Used
 
 - Azure Data Factory (ADF): Orchestration and data integration.
 - Azure Databricks: Data processing and transformation.
 - GitHub APIs: Data source for ingestion.
 - Azure Data Lake Storage Gen2: Data source for ingestion and Storage solution for raw and processed data.
 
-
-## Data Dictionary
 
 ## Skills Demonstrated
 
