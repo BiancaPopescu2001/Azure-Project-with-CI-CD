@@ -34,10 +34,11 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/Arhitecture%20Olympics.jpg)
 
-## Technologies used
+1. Technologies uised
 
-    - aa
-    - bb
+    - **Purpose:** Store raw data as-is from the source without any transformations.
+    - **Source:** GitHub APIs, Azure Datalake Gen 2.
+    - **Tools:** Azure Data Factory.
 
 ## Data Dictionary
 
