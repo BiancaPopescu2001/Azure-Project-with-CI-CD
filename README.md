@@ -17,8 +17,6 @@ This project focuses on building a data engineering pipeline for Olympics Paris 
 The project follows the Medallion Architecture, which organizes data into three distinct layers to maintain quality, scalability, and accessibility:
 
 1. Bronze (Raw) Layer:
-   
-######
 
 Purpose: Store raw data as-is from the source without any transformations.
 
