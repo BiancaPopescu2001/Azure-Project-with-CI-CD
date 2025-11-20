@@ -18,7 +18,7 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 1. Bronze (Raw) Layer:
    
-###
+######
 
 Purpose: Store raw data as-is from the source without any transformations.
 
