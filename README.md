@@ -18,9 +18,9 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 1. Bronze (Raw) Layer:
 
-Purpose: Store raw data as-is from the source without any transformations.
-Source: GitHub APIs.
-Tools: Azure Data Factory.
+○ Purpose: Store raw data as-is from the source without any transformations.
+○ Source: GitHub APIs.
+○ Tools: Azure Data Factory.
 
 2. Silver (Transformed) Layer:
 
