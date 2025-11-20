@@ -36,9 +36,9 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ## Technologies used:
 
-    ● aa Store raw data as-is from the source without any transformations.  
-    ● bb GitHub APIs.  
-    ● cc Azure Data Factory.
+    - ● aa Store raw data as-is from the source without any transformations.  
+    - ● bb GitHub APIs.  
+    - ● cc Azure Data Factory.
 
 ## Data Dictionary
 
