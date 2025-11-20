@@ -36,9 +36,11 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ## Technologies uised
 
-- **Purpose:** Store raw data as-is from the source without any transformations.
-- **Source:** GitHub APIs, Azure Datalake Gen 2.
-- **Tools:** Azure Data Factory.
+- Azure Data Factory (ADF): Orchestration and data integration.
+- Azure Databricks: Data processing and transformation.
+- GitHub APIs: Data source for ingestion.
+- Azure Data Lake Storage Gen2: Data source for ingestion and Storage solution for raw and processed data.
+
 
 ## Data Dictionary
 
