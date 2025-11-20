@@ -36,7 +36,7 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ## Technologies Used
 
-    aaa
+    **aaa**
     bbb
 
 ## Data Dictionary
