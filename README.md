@@ -34,11 +34,10 @@ The project follows the Medallion Architecture, which organizes data into three 
 
 ![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/Arhitecture%20Olympics.jpg)
 
-## Technologies used:
+## Technologies used
 
-    - ● aa Store raw data as-is from the source without any transformations.  
-    - ● bb GitHub APIs.  
-    - ● cc Azure Data Factory.
+    - aa
+    - bb
 
 ## Data Dictionary
 
