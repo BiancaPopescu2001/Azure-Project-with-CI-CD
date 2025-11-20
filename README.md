@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Architecture](#architecture)
-- [DLT Pipeline Arhitecture](#dlt-pipeline-arhitecture)
+- [DLT Pipeline](#dlt-pipeline)
 - [Technologies Used](#technologies-used)
 - [Skills Demonstrated](#skills-demonstrated)
 
@@ -34,6 +34,10 @@ The project follows the Medallion Architecture, which organizes data into three 
     - **Tools:** Azure Databricks, PowerBI
 
 ![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/Arhitecture%20Olympics.jpg)
+
+## DLT Pipeline 
+
+![Text](https://github.com/BiancaPopescu2001/Azure-Project-with-CI-CD/blob/main/dlt%20pipeline.png)
 
 ## Technologies Used
 
